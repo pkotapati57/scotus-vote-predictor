@@ -1,8 +1,8 @@
 streamlit
-openai
+anthropic
 sentence-transformers
+torch
 scikit-learn
-xgboost
-joblib
 pandas
 numpy
+joblib
