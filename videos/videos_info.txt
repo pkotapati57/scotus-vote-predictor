@@ -1,0 +1,7 @@
+Hi! My videos wouldn't upload becuase thier file sizes exceeded GitHub limits.
+
+However, they are uploaded to youtube and linked in the README.md file. 
+
+They are also linked below:
+    Demo video: https://youtu.be/JOoeuajyhIE
+    Technical walkthrough: https://youtu.be/7g3VODJ80F4
