@@ -25,8 +25,8 @@ The web-deployed app already has one in use, and runs on a finite number of toke
 
 
 ## Video Links
-- Demo video (5 min): [LINK]
-- Technical walkthrough (10 min): [LINK]
+- Demo video: https://youtu.be/JOoeuajyhIE
+- Technical walkthrough: https://youtu.be/7g3VODJ80F4
 
 ## Evaluation
 The model achieves the following on the held-out test set (StratifiedKFold, 20% test):
